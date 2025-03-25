@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!--
+Nombre: [Alejandro González Galindo]
+Curso: [ASIR]
+Fecha: [25/03/2025]
+Ejercicio: [Ejercicio 3]
+-->
 <receta>
     <nombre>Sopa de cebolla</nombre>
     <comensales>4</comensales>

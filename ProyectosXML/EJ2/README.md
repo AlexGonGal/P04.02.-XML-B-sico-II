@@ -1,0 +1,1 @@
+He creado un elemento raíz llamado equipos, del que desciende el subelemento equipo en el que se incluye la información de los mismos mediante más subelementos. Solo hay uno distinto del resto y es que el subelemento jugador, tiene el atributo posición (que puede ser medio, portero, defensa o delantero).

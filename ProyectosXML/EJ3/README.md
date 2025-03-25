@@ -1,0 +1,1 @@
+He creado un elemento raíz llamado receta, en el que he metido varios subelementos en los que se aporta la información de la misma (el nombre, nº de comensales, ingredientes necesarios y pasos a seguir para realizarla).

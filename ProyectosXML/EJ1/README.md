@@ -1,0 +1,1 @@
+He creado un elemento raíz llamado marcadores, en el que he metido 3 veces el subelemento página. A su vez, este subelemento, contiene más subelementos en los que se incluye la información pedida.

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipos>
+    <equipo>
+        <nombre>Atlético de Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <jugadores>
+            <jugador posicion="medio">
+                <nombre>Pablo Barrios</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>César Azpilicueta</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Sevilla</nombre>
+        <ciudad>Sevilla</ciudad>
+        <jugadores>
+            <jugador posicion="defensa">
+                <nombre>Kike Salas</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+            <jugador posicion="medio">
+                <nombre>Suso</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>

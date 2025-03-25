@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <modulo>
-    <nombre>Lenguajes de marcas</nombre>
+    <nombre>Lenguajes de Marcas</nombre>
     <horas_semanales>4</horas_semanales>
     <caracter>Obligatorio</caracter>
     <fecha_inicio>2023-09-15</fecha_inicio>
